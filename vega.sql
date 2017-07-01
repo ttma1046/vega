@@ -1,2 +1,2 @@
 SELECT * FROM Makes;
-SELECT * FROM Model;
+SELECT * FROM Models;
